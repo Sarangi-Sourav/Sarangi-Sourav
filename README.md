@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sarangi-Sourav
-- 👀 I’m interested in learning datascience
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m sourav kumar sarangi
+- 👀 I’m interested in learning more about data science and machine learning
+- 🌱 I’m currently working on a project and very excited to use new machine learning algorithms 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
